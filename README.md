@@ -20,11 +20,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1dougweb&show_icons=true&theme=radical&count_private=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglaseps&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1dougweb&theme=radical" alt="streak" />
 </p>
 
 ---
