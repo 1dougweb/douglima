@@ -30,7 +30,8 @@
 ---
 
 ### 🚀 Algumas Vibes de Código
-// Laravel vibes
+``// Laravel vibes
 Route::get('/developer', function () {
     return response()->json(['message' => 'Laravel Hardcore⚡']);
 });
+``
